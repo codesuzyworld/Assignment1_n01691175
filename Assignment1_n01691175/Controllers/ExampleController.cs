@@ -41,7 +41,7 @@ namespace Assignment1_n01691175.Controllers
         /// </returns>
         /// <example>
         /// Post:localhost:xx/Apli/Example -> "A response to a POST request"
-        /// /// curl -d "" https://localhost:44339/api/example
+        /// curl -d "" https://localhost:44339/api/example
         /// </example>
         
         public string Post()
